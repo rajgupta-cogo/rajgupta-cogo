@@ -12,7 +12,6 @@
 <br/>
 
 <!--|![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajgupta-cogo&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10)|![](https://github-readme-stats.vercel.app/api?username=rajgupta-cogo&show_icons=true&locale=en&theme=radical&private_count=true)| -->
-|--------|--------|
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=rajgupta-cogo&theme=radical)
 
